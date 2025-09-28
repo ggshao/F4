@@ -1,0 +1,16 @@
+../Core/Src/status.c:59:6:StateMachine_OPEN	16	static
+../Core/Src/status.c:69:6:StateMachine_OFF	8	static
+../Core/Src/status.c:78:6:StateMachine_alive_test	0	static
+../Core/Src/status.c:86:6:StateMachine_timer1_test	0	static
+../Core/Src/status.c:94:6:StateMachine_messure	32	static
+../Core/Src/status.c:100:6:StateMachine_BT_cnt_add	0	static
+../Core/Src/status.c:179:6:StateMachine_remote_check	8	static
+../Core/Src/status.c:193:6:StateMachine_auto_start	8	static
+../Core/Src/status.c:203:6:StateMachine_vin_low_protect	8	static
+../Core/Src/status.c:211:6:StateMachine_preload_protect	32	static
+../Core/Src/status.c:235:6:StateMachine_overcurrent_protect	16	static
+../Core/Src/status.c:254:6:StateMachine_fans_speed	32	static
+../Core/Src/status.c:273:6:StateMachine_wait_stable	0	static
+../Core/Src/status.c:281:6:Flash_WriteStateMachine	400	static
+../Core/Src/status.c:288:6:Flash_ReadStateMachine	400	static
+../Core/Src/status.c:19:6:StateMachine_Init	408	static

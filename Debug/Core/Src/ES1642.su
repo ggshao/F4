@@ -1,0 +1,4 @@
+../Core/Src/ES1642.c:10:9:calculate_checksum	0	static
+../Core/Src/ES1642.c:20:9:calculate_xor	0	static
+../Core/Src/ES1642.c:40:10:build_data_frame	32	static
+../Core/Src/ES1642.c:126:5:parse_received_data_frame	40	static
