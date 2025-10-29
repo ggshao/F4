@@ -1,3 +1,0 @@
-../Core/Src/gpio.c:42:6:MX_GPIO_Init	56	static
-../Core/Src/gpio.c:83:6:Relese_ON	8	static
-../Core/Src/gpio.c:88:6:Relese_OFF	8	static

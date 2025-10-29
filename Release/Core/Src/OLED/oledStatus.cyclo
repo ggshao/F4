@@ -1,5 +1,0 @@
-../Core/Src/OLED/oledStatus.c:13:6:OLEDStatus_Init	1
-../Core/Src/OLED/oledStatus.c:24:6:OLEDStatus_Display	10
-../Core/Src/OLED/oledStatus.c:89:6:OLEDStatus_debounce_cnt_increase	9
-../Core/Src/OLED/oledStatus.c:186:6:OLEDStatus_LEFT	3
-../Core/Src/OLED/oledStatus.c:195:6:OLEDStatus_RIGHT	3

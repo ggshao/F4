@@ -1,4 +1,0 @@
-../Core/Src/FlashDrv/FlashDrv.c:87:19:FlashDrv_Write	48	static
-../Core/Src/FlashDrv/FlashDrv.c:158:10:FlashDrv_read	0	static
-../Core/Src/FlashDrv/FlashDrv.c:187:6:debug_testflash	8	static
-../Core/Src/FlashDrv/FlashDrv.c:210:6:debug_testflash_struct	400	static
